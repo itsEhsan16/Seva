@@ -1,4 +1,4 @@
-project_id = "uuhwusrjgwitldzqoccx"
+project_id = "Your Project id"
 
 [functions.create-payment]
 verify_jwt = true
